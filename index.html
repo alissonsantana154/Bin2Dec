@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bin2Dec</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Bin2Dec</h1>
+      <h3>Conversor de binário para decimal</h3>
+      <p>
+        Binário:
+        <input
+          type="text"
+          id="b-input"
+          onchange="convert()"
+          placeholder="Insira um número binário"
+        />
+      </p>
+      <p>Decimal: <input type="text" id="d-input" readonly /></p>
+      <p><input type="button" value="CONVERTER" onclick="convert()" /></p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
