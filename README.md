@@ -11,7 +11,7 @@ O Bin2Dec é um Conversor de binário para decimal
 
 ## Layout web
 
-![Web 1]()
+![Web 1](https://media0.giphy.com/media/vxMyqZw1uw2JFr1hfL/giphy.gif?cid=790b7611953746c404ac096149907e07c88a32e194c0b3d4&rid=giphy.gif&ct=g)
 
 
 # Tecnologias utilizadas
